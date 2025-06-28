@@ -21,3 +21,5 @@ This task involves the creation and configuration of cloud storage using either 
 output
 
 ![Image](https://github.com/user-attachments/assets/eabf3758-77c9-45a0-8013-5ebd009ac1a8)
+
+![Image](https://github.com/user-attachments/assets/80457586-a3d6-4cb1-8003-46b2d9a47e9b)
